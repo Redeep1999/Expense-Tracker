@@ -30,6 +30,12 @@
 
 ![Total Expenses](images/total_expenses.png)
 
+
+### Monthly Expenses
+
+![Monthly Expenses](images/monthly_expenses.png)
+
+
 ### Exit Menu
 
 ![Exit Menu](images/exit_menu.png)
