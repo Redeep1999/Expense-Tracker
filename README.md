@@ -1,5 +1,40 @@
 \# Expense Tracker
 
+## 📸 Application Preview
+
+### Main Menu
+
+![Main Menu](images/main_menu.png)
+
+---
+
+### Add Expense
+
+![Add Expense](images/add_expense.png)
+
+---
+
+### View Expenses
+
+![View Expenses](images/view_expenses.png)
+
+---
+
+### Search Expenses
+
+![Search Expenses](images/search_expenses.png)
+
+---
+
+### Total Expenses
+
+![Total Expenses](images/total_expenses.png)
+
+### Exit Menu
+
+![Exit Menu](images/exit_menu.png)
+
+---
 
 
 \## Project Overview
